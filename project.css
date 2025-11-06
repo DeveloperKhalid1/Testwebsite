@@ -94,6 +94,7 @@ justify-content:space-between;
 }
 .fleft{
 float:left;
+  margin-top:40px;
 }
 
 
@@ -103,10 +104,8 @@ text-decoration:none;
 color:white;
 padding:5px;
 }
-#khalid{
-  margin-top:40%;
-  
-}
+
+
 
 
 
